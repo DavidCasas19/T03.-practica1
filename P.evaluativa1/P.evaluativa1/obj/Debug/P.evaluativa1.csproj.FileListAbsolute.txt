@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\obj\Debug\P.evaluativa1.csprojAssemblyReference.cache
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\bin\Debug\P.evaluativa1.exe.config
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\bin\Debug\P.evaluativa1.exe
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\bin\Debug\P.evaluativa1.pdb
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\obj\Debug\P.evaluativa1.exe
+C:\Users\david\source\repos\P.evaluativa1\P.evaluativa1\obj\Debug\P.evaluativa1.pdb

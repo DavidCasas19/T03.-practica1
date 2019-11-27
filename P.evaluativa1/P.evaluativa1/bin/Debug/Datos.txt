@@ -1,0 +1,18 @@
+1,David Casas Barron,ingeniero civil,19
+2,Miguel hernandez,Arquitecto,17
+3,mario silva,ingeniero informatica,23
+4,Alexis chavez ,ingeniero Sistemas,31
+5,Carlos Becerril,Licenciado en derecho,20
+6,Vicente Cazares,Doctor,32
+7,Fernando Perez,ingeniero civil,45
+8,Maria eugenia,ingeniero electromecanica,25
+9,Karina Gutierrez,ingeniero sistemas,29
+10,Karla Espinoza,ingeniero informatico,23
+11,Carmen Hernandez,Enfermera,18
+12,Felipe Roman,ingeniero civil,24
+13,Eduardo Encina,ingeniero diseño,28
+14,Juan perez,licenciado en matematicas,36
+15,Ramiro vega,Profesor,65
+16,Brandon valenzuela,Artista,19
+17,Andrea Berrospe,ingeniero Civil,19
+18,Sandra Encina,ingeniero Sistemas,24
